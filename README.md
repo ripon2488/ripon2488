@@ -1,9 +1,7 @@
-### Hi there 👋
+<h1> Dream towards Data Scientist </h1>
+<h3> More Details for me:  https://sites.google.com/view/ripon2488</h3>
 
-**ripon2488/ripon2488** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
+<h2> About Me: </h2>
 - 🔭 I’m currently working on Database Administration, ML and DL.
 - 🌱 I’m currently learning Data Analyics, Machine Learning ,Deep Learning and Data Science.
 - 👯 I’m looking to collaborate on Data Engineering and AI.
