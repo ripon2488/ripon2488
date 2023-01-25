@@ -12,7 +12,7 @@
 <ul>- ⚡ Fun fact: </ul>
 
 <br>
-# ✨ Tech Knowledge: <br>
+<h2> ✨ Tech Knowledge: </h2><br>
 
 ![](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F9733051%2Fbb55e1da4e60a0bac5ad8e8b37ca2252%2Fpython.JPG?generation=1674674585111907&alt=media)
 ![](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F9733051%2F92425d26f43b7c2e5427ce16c9427669%2Fpandas.JPG?generation=1674674584845340&alt=media)
@@ -27,6 +27,8 @@
 ![](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F9733051%2F9b2e7383176bb5d806142e8ef8f89bb5%2Fgoogle%20data%20studio.JPG?generation=1674674585135850&alt=media)
 ![](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F9733051%2F224ba3f0a7a6dd52c6c5d57b4c6768bc%2Fmysql.JPG?generation=1674674585250106&alt=media)
 ![](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F9733051%2F451decb991b663ac2a01bf33287e8f89%2Foracle.JPG?generation=1674674585317290&alt=media)
+
+<br>
 
 <p align="center">
 
