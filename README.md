@@ -14,19 +14,22 @@
 <br>
 <h2> ✨ Tech Knowledge: </h2><br>
 
-![](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F9733051%2Fbb55e1da4e60a0bac5ad8e8b37ca2252%2Fpython.JPG?generation=1674674585111907&alt=media)
-![](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F9733051%2F92425d26f43b7c2e5427ce16c9427669%2Fpandas.JPG?generation=1674674584845340&alt=media)
-![](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F9733051%2F2be2f6f3915dbf581e3bea74e52a3d3e%2Fnumpy.JPG?generation=1674674817105462&alt=media)
-![](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F9733051%2F281fdf32704fa9cc1d151d5a4b7d8044%2Fkeras.JPG?generation=1674674584940887&alt=media)
-![](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F9733051%2F1cce87ec8a74d489c1619511b1a86ef1%2Ftensorflow.JPG?generation=1674674584971720&alt=media)
-![](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F9733051%2F9292d86208ebcb6bc0f7cb427379b6e3%2Fpytorch.JPG?generation=1674674585028937&alt=media)
-![](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F9733051%2Fbb5850e18599469e17878ed480d2937c%2Fscikit-learn.JPG?generation=1674674585185866&alt=media)
-![](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F9733051%2Fbf6efb543df53108d4f3eaa7633ff8c9%2Fopencv.JPG?generation=1674674585137813&alt=media)
+![](https://img.shields.io/badge/python-3670A0?style=for-the-badge&amp;logo=python&amp;logoColor=ffdd54)
+![](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&amp;logo=Keras&amp;logoColor=white)
+![](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&amp;logo=numpy&amp;logoColor=white)
+![](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&amp;logo=pandas&amp;logoColor=white)
+![](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&amp;logo=plotly&amp;logoColor=white)
+ ![](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&amp;logo=PyTorch&amp;logoColor=white)
+![](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&amp;logo=scikit-learn&amp;logoColor=white) 
+![](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&amp;logo=scipy&amp;logoColor=%white)
+![](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&amp;logo=TensorFlow&amp;logoColor=white)
+![](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&amp;logo=opencv&amp;logoColor=white)
 ![](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F9733051%2F9de19bc8674de7e909cfdc555ab8199b%2Fpower%20bi.JPG?generation=1674674584825248&alt=media)
 ![](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F9733051%2F2984bf7961a04d79aa992de7e25fa036%2Ftableau.JPG?generation=1674674585096135&alt=media)
 ![](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F9733051%2F9b2e7383176bb5d806142e8ef8f89bb5%2Fgoogle%20data%20studio.JPG?generation=1674674585135850&alt=media)
 ![](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F9733051%2F224ba3f0a7a6dd52c6c5d57b4c6768bc%2Fmysql.JPG?generation=1674674585250106&alt=media)
 ![](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F9733051%2F451decb991b663ac2a01bf33287e8f89%2Foracle.JPG?generation=1674674585317290&alt=media)
+
 
 <br>
 
