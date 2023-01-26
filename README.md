@@ -2,7 +2,7 @@
 <h3> More Details for me:  https://sites.google.com/view/ripon2488</h3>
 
 <h2>🤠 About Me: </h2><br>
-I always enjoyed Computer Science, Data Science and machine learning that has drove me to be an Engineer.
+I always enjoyed Computer Science, Data Science and machine learning that has drove me to be an Engineer. <br>
 
 <ul>- 🔭 I’m currently working on Database Administration, ML and DL.</ul>
 <ul>- 🌱 I’m currently learning Data Analyics, Machine Learning ,Deep Learning and Data Science.</ul>
