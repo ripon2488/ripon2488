@@ -1,5 +1,4 @@
 <h1> Dream towards Data Scientist </h1><br>
-<h3> More Details for me:  https://sites.google.com/view/ripon2488</h3>
 
 <h2>🤠 About Me: </h2><br>
 I always enjoyed Computer Science, Data Science and machine learning that has drove me to be an Engineer. <br>
@@ -15,6 +14,7 @@ I always enjoyed Computer Science, Data Science and machine learning that has dr
 <ul>- ⚡ Fun fact: </ul>
 
 <br>
+<h3> More Details for me:  https://sites.google.com/view/ripon2488</h3>
 <h2> ✨ Tech Knowledge: </h2><br>
 
 ![](https://img.shields.io/badge/python-3670A0?style=for-the-badge&amp;logo=python&amp;logoColor=ffdd54)
