@@ -15,7 +15,7 @@ I always enjoyed Computer Science, Data Science and machine learning that has dr
 <ul>- ⚡ Fun fact: </ul>
 
 <br>
-<h3> More Details for me:  https://sites.google.com/view/ripon2488</h3>
+<h3> More Details for me:  https://www.dsripon.com</h3>
 <h2> ✨ Tech Knowledge: </h2><br>
 
 ![](https://img.shields.io/badge/python-3670A0?style=for-the-badge&amp;logo=python&amp;logoColor=ffdd54)
