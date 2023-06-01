@@ -11,6 +11,8 @@ I always enjoyed Computer Science, Data Science and machine learning that has dr
 <ul>- 💬 Ask me about Data Analysis, Engineering and ML.</ul>
 <ul>- 📫 How to reach me: <a href="https://www.linkedin.com/in/ripon2488/"> ripon2488 </a> </ul>
 <ul>- 📫 Workflow in Kaggle: <a href="https://www.kaggle.com/mdriponmiah"> mdriponmiah </a> </ul>
+<ul>- 📫![image](https://github.com/ripon2488/ripon2488/assets/88526572/04c3e767-981f-4934-a623-6d0b0e214568)
+ Social Media FB: <a href="https://www.facebook.com/ripon2488"> Ripon </a> </ul>
 <ul>- 😄 Pronouns: Ripon (রিপন)</ul>
 <ul>- ⚡ Fun fact: </ul>
 
