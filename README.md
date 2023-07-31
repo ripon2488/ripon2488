@@ -34,8 +34,18 @@ I always enjoyed Computer Science, Data Science and machine learning that has dr
 ![](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F9733051%2F9b2e7383176bb5d806142e8ef8f89bb5%2Fgoogle%20data%20studio.JPG?generation=1674674585135850&alt=media)
 ![](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F9733051%2F224ba3f0a7a6dd52c6c5d57b4c6768bc%2Fmysql.JPG?generation=1674674585250106&alt=media)
 ![](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F9733051%2F451decb991b663ac2a01bf33287e8f89%2Foracle.JPG?generation=1674674585317290&alt=media)
+<br>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ripon2488&label=Profile%20views&color=0e75b6&style=flat" alt="ripon2488" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ripon2488" alt="ripon2488" /></a> </p>
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ripon2488&show_icons=true&locale=en&layout=compact" alt="ripon2488" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ripon2488&show_icons=true&locale=en" alt="ripon2488" /></p>
 <br>
 
 <p align="center">
