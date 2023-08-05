@@ -65,3 +65,6 @@ I always enjoyed Computer Science, Data Science and machine learning that has dr
 ![mdriponmiah](https://road-to-kaggle-grandmaster.vercel.app/api/simple/mdriponmiah) 
 
                                                                                         
+
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="ripon2488" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://bd.linkedin.com/in/ripon2488?trk=profile-badge">Md. Ripon Miah</a></div>
+              
