@@ -9,7 +9,7 @@ I always enjoyed Computer Science, Data Science and machine learning that has dr
 <ul>- 👯 I’m looking to collaborate on Data Engineering and AI.</ul>
 <ul>- 🤔 I’m looking for help with Data Science and AI.</ul>
 <ul>- 💬 Ask me about Data Analysis, Engineering and ML.</ul>
-<ul>- 📫 Reach me in linkedin: <a href="https://www.linkedin.com/in/ripon2488/"> ripon2488 </a> </ul>
+<ul>- 📫 Reach me in linkedin: <a href="https://www.linkedin.com/in/dsripon2488/"> Ripon </a> </ul>
 <ul>- 📫 Workflow in Kaggle: <a href="https://www.kaggle.com/mdriponmiah"> mdriponmiah </a> </ul>
 <ul>- 📫 Social Media Facebook: <a href="https://www.facebook.com/ripon2488"> Ripon </a> </ul>
 <ul>- 😄 Pronouns: Ripon (রিপন)</ul>
@@ -66,5 +66,5 @@ I always enjoyed Computer Science, Data Science and machine learning that has dr
 
                                                                                         
 
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="ripon2488" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://bd.linkedin.com/in/ripon2488?trk=profile-badge">Md. Ripon Miah</a></div>
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="dsripon2488" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://bd.linkedin.com/in/dsripon2488?trk=profile-badge">Md. Ripon Miah</a></div>
               
